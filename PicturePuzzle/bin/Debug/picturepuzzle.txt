@@ -1,0 +1,5 @@
+we use the bredth first search
+algorithme and depth first algorithme
+to solve the problem
+and the user can to use the brain 
+to solve the problem 
